@@ -108,3 +108,7 @@ dmypy.json
 
 # My Config
 config.py
+
+
+# 10 projects directory
+project/
